@@ -1,0 +1,17 @@
+Note: ##This is a draft copy of the picture file. Please feel free to update the file.
+
+OVERVIEW OF TETRA PROTOCOL- 
+
+	Why Protocol ? 
+		*Problem ===Attacks
+		*Purpose ===Solved the vulnerability
+		*Vulnerabilities for the design of the protocol
+		
+		 
+	What is the protocol?
+		*Techniques ===Crypto...... used in the protocols
+		*
+	How is the protocol
+	
+	Current attacks/ Analysis of Vulnerabilities
+	
