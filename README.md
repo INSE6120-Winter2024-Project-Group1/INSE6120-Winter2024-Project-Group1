@@ -1,4 +1,4 @@
-### Hi there 👋
+git### Hi there 👋
 
 <!--
 **INSE6120-Winter2024-Project-Group1/INSE6120-Winter2024-Project-Group1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
