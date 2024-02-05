@@ -1,0 +1,46 @@
+1.	How does the Tetra protocol work
+2.	where the protocol has been implemented across different sectors and
+3.	 attempt to determine the abstract model of the protocol that has been broken TEA1.
+
+
+
+The Terrestrial Trunked Radio (TETRA) protocol is a digital trunked radio standard developed by the European Telecommunications Standards Institute (ETSI) for professional mobile radio (PMR) and public access mobile radio (PAMR) applications. It is widely used by public safety and security organizations, military, transportation, utilities, and other industries that require secure and reliable communication.
+
+The TETRA protocol operates in the 380–400 MHz frequency range and provides voice, data, and messaging services. It uses Time Division Multiple Access (TDMA) technology with four user channels on one radio carrier and 25 kHz spacing between carriers.
+
+TETRA features include:
+
+Direct Mode Operation (DMO): This allows two or more radios to communicate directly with each other without using the network infrastructure.
+
+Trunked Mode Operation (TMO): This enables multiple users to share the same radio resources using a central controller.
+
+Authentication and encryption: TETRA uses encryption and authentication mechanisms to ensure secure communication.
+
+Fast call setup: It has a short call setup time, allowing for efficient communication.
+ Priority and pre-emption: It supports priority calls and pre-emption to ensure that critical communication is not interrupted.
+
+Group calls: It allows group calls with multiple users in a single call.
+Short data services: It provides short data services for sending and receiving short messages and data packets.
+
+
+
+http://www.fact-index.com/t/te/terrestial_trunked_radio.html
+
+https://mural.maynoothuniversity.ie/3722/1/Channlization_for_Multistandard_SDR_Base_Stations-Alvaro_Palomo_PhD.pdf
+
+https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio 
+
+https://www.researchgate.net/publication/351922916_TETRA_Enhancement_Based_on_Adaptive_Modulation 
+https://www.etsi.org/deliver/etsi_tr/102000_102099/10202106/01.02.01_60/tr_10202106v010201p.pdf 
+
+
+overview of Tetra
+The Terrestrial Trunked Radio (TETRA) protocol is a digital trunked mobile radio standard developed to meet the needs of professional mobile radio users, particularly in the public safety and security sectors. It is widely used in Europe and other parts of the world for mission-critical communications.
+
+file:///Users/sethekowtv/Downloads/Security%20Analysis%20of%20TETRA.pdf 
+
+https://docplayer.net/5158872-Security-analysis-of-tetra.html 
+
+https://www.incibe.es/sites/default/files/contenidos/estudios/doc/incibe-cert_cybersecurity_in_tetra_networks_study_2023_v1.0_0.pdf 
+
+
