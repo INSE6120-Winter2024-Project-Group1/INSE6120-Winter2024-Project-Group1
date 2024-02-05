@@ -3,6 +3,11 @@ Note: ##This is a draft copy of the picture file. Please feel free to update the
 OVERVIEW OF TETRA PROTOCOL- 
 
 	Why Protocol ? 
+		initial draft 1
+		scope :  origins of TETRA, its development, key features, comparison with other communication protocols
+		history: initial development of TETRA, focusing on its creation by the European Telecommunications Standards Institute (ETSI)
+		adoption:  how and why various industries and countries have adopted TETRA, focusing on public safety
+		
 		*Problem ===Attacks
 		*Purpose ===Solved the vulnerability
 		*Vulnerabilities for the design of the protocol
